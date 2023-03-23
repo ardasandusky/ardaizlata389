@@ -1,7 +1,5 @@
 <h3 align="center">Google DSC Lead.</h3>
 
-<p align="left"> <a href="https://twitter.com/ardaizlata" target="blank"><img src="https://img.shields.io/twitter/follow/ardaizlata?logo=twitter&style=for-the-badge" alt="ardaizlata" /></a> </p>
-
 - 🔭 I’m currently working on **Python**
 
 - 🌱 I’m currently learning **Artificial Intelligence**
