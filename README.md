@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on **Python**
 
-- 🌱 I’m currently learning **Artificial Intelligence**
+- 🌱 I’m currently learning **Artificial Intelligence**, **Machine Learning**
 
 - 📝 I regularly write articles on [https://medium.com/@ardaizlata](https://medium.com/@ardaizlata)
 
